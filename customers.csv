@@ -1,0 +1,31 @@
+customer_id,name,age,gender,country,is_vip
+C100,Client0,36,M,Sénégal,True
+C101,Client1,40,M,Sénégal,True
+C102,Client2,28,M,Sénégal,True
+C103,Client3,28,M,Sénégal,False
+C104,Client4,41,M,Sénégal,False
+C105,Client5,53,M,Sénégal,True
+C106,Client6,57,F,Sénégal,True
+C107,Client7,41,F,Côte d’Ivoire,True
+C108,Client8,20,M,Cameroun,False
+C109,Client9,39,F,Sénégal,False
+C110,Client10,19,F,Sénégal,False
+C111,Client11,41,F,Sénégal,False
+C112,Client12,61,F,Sénégal,False
+C113,Client13,47,M,Sénégal,False
+C114,Client14,55,F,Sénégal,False
+C115,Client15,19,M,Cameroun,False
+C116,Client16,38,F,Cameroun,True
+C117,Client17,50,F,Sénégal,False
+C118,Client18,29,F,Cameroun,False
+C119,Client19,39,M,Côte d’Ivoire,False
+C120,Client20,61,F,Sénégal,False
+C121,Client21,42,M,Côte d’Ivoire,True
+C122,Client22,44,F,Côte d’Ivoire,False
+C123,Client23,59,M,Sénégal,False
+C124,Client24,45,F,Cameroun,False
+C125,Client25,33,M,Côte d’Ivoire,False
+C126,Client26,32,M,Sénégal,False
+C127,Client27,64,F,Côte d’Ivoire,True
+C128,Client28,61,M,Côte d’Ivoire,True
+C129,Client29,20,F,Côte d’Ivoire,True

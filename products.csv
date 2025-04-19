@@ -1,0 +1,11 @@
+product_id,product_name,category,cost_price
+P100,Lait UHT 1L,Produits laitiers,1326
+P101,Pain Complet,Boulangerie,1659
+P102,Jus de Mangue,Boissons,1060
+P103,Savon de Marseille,Hygiène,1494
+P104,Riz 5kg,Épicerie,1330
+P105,Pâtes Spaghetti,Épicerie,1295
+P106,Huile 1L,Épicerie,1924
+P107,Thon en boîte,Conserves,1244
+P108,"Eau minérale 1,5L",Boissons,1838
+P109,Chocolat Noir,Confiserie,321
